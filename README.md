@@ -1,0 +1,3 @@
+# cupcake
+Static HTML Responsive
+#
